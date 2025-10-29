@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Thomas Norris Savatovsky"
+title                    : "My Personal Website"
 title_separator          : "-"
 name                     : &name "Thomas Savatovsky"
-description              : &description "My Personal Website"   # Update this with a general description of your site, this is the default if not overridden by a page
+#description              : &description "My Personal Website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://thomassavaa.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "Thomassavaa/Thomassavaa.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "About Me"
+  name             : "Thomas Savatovsky"
   pronouns         : "he/him/his"
   bio              : "Brazilian-born Astrobiology Masters/PhD Student. Research currently focused on Prebiotic Martian/computational Chemistry."
   location         : "Tokyo, Japan"
