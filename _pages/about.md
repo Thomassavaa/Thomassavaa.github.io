@@ -33,8 +33,4 @@ I am using [MØD](https://jakobandersen.github.io/mod/index.html), a chemical re
 For now, my focus is limited to the formose system, but this approach has broader applications. In the future, I hope to explore carbonate lakes as plausible origin-of-life sites for both Mars and Hadean Earth and to develop more accurate laboratory recreations of these prebiotic environments. I am also interested in extending my work beyond moderate-temperature wet-lab chemistry into atmospheric and hydrothermal systems, among others.
 
 
-Past Experience
-======
-
-
 
